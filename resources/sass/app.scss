@@ -1,0 +1,15 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+@import "~font-awesome/scss/font-awesome.scss";
+
+// Variables
+@import 'variables';
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+
+.content {
+  text-align: center;
+  .title {
+    font-size: 100px;
+  }
+}
